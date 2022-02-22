@@ -16,8 +16,16 @@
 
 
 ## Stats
-![Github Stats]( 	https://github-readme-stats.vercel.app/api?username=Vincenzo117&theme=blue-green) <br> <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenzo117&theme=blue-green)
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vincenzo117&theme=dracula&hide_border=true" />
+ <a href="https://github-readme-stats.vercel.app/api?username=Vincenzo117&show_icons=true&theme=synthwave&include_all_commits=true" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vincenzo117&show_icons=true&theme=synthwave&include_all_commits=true" />
+ </a>
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo117&theme=synthwave" target="_blank">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo117&theme=synthwave" /> 
+ </a> 
+</p>
+
 
 
  ## Reach me  <br>
