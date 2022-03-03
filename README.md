@@ -21,10 +21,10 @@
 ## Stats
 <p align="center">
  <a href="https://github-readme-stats.vercel.app/api?username=Vincenzo117&show_icons=true&theme=synthwave&include_all_commits=true" target="_blank">
-  <img width='45%' src="https://github-readme-stats.vercel.app/api?username=Vincenzo117&show_icons=true&theme=synthwave&include_all_commits=true" />
+  <img width='49%' src="https://github-readme-stats.vercel.app/api?username=Vincenzo117&show_icons=true&theme=synthwave&include_all_commits=true" />
  </a>
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo117&theme=synthwave" target="_blank">
-  <img width='45%' src="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo117&theme=synthwave" /> 
+  <img width='49%' src="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo117&theme=synthwave" /> 
  </a> 
 </p>
 
