@@ -26,7 +26,6 @@
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo117&theme=synthwave" target="_blank">
   <img width='45%' src="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo117&theme=synthwave" /> 
  </a> 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vincenzo117&theme=dracula&hide_border=true" />
 </p>
 
 
@@ -41,7 +40,7 @@
 <!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vincenzo117)
 
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vincenzo117&theme=dracula&hide_border=true" />
 **Vincenzo117/Vincenzo117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
